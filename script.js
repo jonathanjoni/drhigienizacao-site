@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Função para configurar links do WhatsApp (placeholder)
 function setupWhatsAppLinks() {
-    const whatsappButtons = document.querySelectorAll('.whatsapp-btn, .whatsapp-btn-large');
+    const whatsappButtons = document.querySelectorAll('.whatsapp-btn, .cta-button, .whatsapp-btn-large');
     
     whatsappButtons.forEach(button => {
         button.addEventListener('click', function(e) {
