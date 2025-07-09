@@ -31,7 +31,7 @@ Site profissional desenvolvido para a Dr. Higienização, empresa especializada 
 ## 📱 Contato
 
 - **Email:** contato@drhigienizacao.com.br
-- **WhatsApp:** [Configurar número]
+- **WhatsApp:** 55 (47)93618-3155
 
 ---
 
