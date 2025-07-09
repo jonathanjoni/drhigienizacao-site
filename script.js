@@ -90,8 +90,8 @@ function setupWhatsAppLinks() {
         button.addEventListener('click', function(e) {
             e.preventDefault();
             // Aqui você pode adicionar o número do WhatsApp real
-            const message = encodeURIComponent('Olá! Gostaria de solicitar um orçamento para higienização de estofados.');
-            const whatsappUrl = `https://wa.me/5511999999999?text=${message}`;
+            const message = encodeURIComponent('Olá! Vim do site e gostaria de solicitar um orçamento para higienização de estofados.');
+            const whatsappUrl = `https://wa.me/5547936183155?text=${message}`;
             window.open(whatsappUrl, '_blank');
         });
     });
